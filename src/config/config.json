@@ -1,0 +1,12 @@
+{
+  "minCommits": 3,
+  "maxCommits": 7,
+  "days": 30,
+  "includeWeekends": true,
+  "weekendCommits": {
+    "minCommits": 1,
+    "maxCommits": 3
+  },
+  "repoUrl": "https://github.com/SZabrodskii/ts-committer.git",
+  "commitTemplate": "chore: random commit"
+}
